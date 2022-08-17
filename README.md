@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mitangini
 - 👀 I’m interested in Drawing, Coding and Cooking.
 - 🌱 I’m currently learning Web development
-- 💞️ I’m looking to collaborate on web deveopment project
+- 💞️ I’m looking to collaborate on web development project
 - 📫 How to reach me mitanginipatel20@gmail.com
